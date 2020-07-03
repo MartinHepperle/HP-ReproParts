@@ -16,5 +16,5 @@ I cannot guarantee that these parts wil be fit for any purpose, so use at your o
 These parts were created for replacing broken or missing parts of obsolete computers and peripherals for hobby purposes. They may violate safety regulations and disturb your good taste. Consume with a grain of salt and brain.
 </p>
 
-<p>Note to collectors: these parts are different enough from genuine spare parts so that the< cannot be mistaken for fakes.
+<p>Note to collectors: these parts are different enough from genuine spare parts so that they cannot be mistaken for fakes.
 </p>
