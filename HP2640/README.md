@@ -11,7 +11,7 @@ For the cables I often use ready made serial or parallel printer cables with 25 
 This is cheaper than buying cable by the meter and one connctor is already in place.
 
 <h2>HP 2640 Keyboard Cover</h2>
-When printed in PLA, the retention clip nose on the keyboard switch cover may break if it is bent too much. 
+When printed in PLA, the nose of the retention clip may break if it is bent too much. 
 Use a file or sharp knife to shorten it so that the cover is held in place without overstressing the part.
 If it broke, cyanacrylate superglue may be your friend.
 
