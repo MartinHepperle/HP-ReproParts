@@ -7,8 +7,8 @@
 <h2>Cable Hoods:</h2>
 I usually glue the cables into these hoods after testing them, because screws do not hold well in the relatively soft PLA material.
 Also, it is simple to make another one, if needed. 
-For the cables I often use ready made serial or parallel printer cables with 25 or 36 wires and replace the connctors.
-This is cheaper than buying cable by the meter and one connctor is already in place.
+For the cables I often use ready made serial or parallel printer cables with 25 or 36 wires and replace the connectors.
+This is cheaper than buying cable by the meter and one conenctor is already in place.
 
 <h2>HP 2640 Keyboard Cover</h2>
 When printed in PLA, the nose of the retention clip may break if it is bent too much. 
