@@ -1,7 +1,7 @@
 <h1>Parts for Series-80 Computers (85, 86, 87, 9915)</h1>
 
 <ul>
-  <li>case for interface modules, PRM-85 module or similar.</li>
+  <li>case for interface modules, PRM-85 module or other new developments (what about that new color graphics board you wanted to develop?).</li>
 </ul>
 
 <h2>Notes</h2>
