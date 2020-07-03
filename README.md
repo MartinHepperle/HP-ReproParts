@@ -1,9 +1,9 @@
 # HP-ReproParts
-3D printable parts for obsolete computers
+This repository collects my 3D printable parts for obsolete computers.
 
-This archive collects parts which I have created to replace broken or missing parts for obsolete computers and perpherals for hobby purposes.
+These parts were created to replace broken or missing parts for obsolete computers and peripherals for hobby purposes. 
 
-My focus is on Hewlett Packard computers, but some parts may be intended for other systems.
+The focus is mainly onparts related to Hewlett Packard computers.
 
 Most of these parts have been printed in my low cost hobby printer "Anycubic Mega 3D".
 Some were also sent to commercial 3D printing services to obtain parts in sintered nylon or layered ABS.
@@ -14,4 +14,4 @@ For your hobby printer you have to process it by your favorite slicing software 
 I have spent a considerable amount of time to create these models and am happy to provide these parts for hobby purposes.
 You can use these models for non-commercial purposes, but not sell the models or parts for profit.
 
-Not to collectors: these parts are different enough from genuine spare parts so that the cannot be taken for fakes.
+Note to collectors: these parts are different enough from genuine spare parts so that the cannot be taken for fakes.
