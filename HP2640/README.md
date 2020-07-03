@@ -1,4 +1,4 @@
-<h1>Parts for Hp terminals of the 264x series.</h1>
+<h1>Parts for HP terminals of the 264x series.</h1>
 <ul>
   <li>cover for keyboard switches</li>
   <li>cable hood for the serial interface cable</li>
