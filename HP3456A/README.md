@@ -8,6 +8,6 @@ Often it may be better to produce similar parts from sheet metal or "L"-type bar
 
 The front brackets will suit many other HP devices. I did not bother to add handles to these parts.
 
-The rear brackets were needed to support the deep boxes, which overhang the rear end of my small rack.
+The rear brackets were needed to support the deep boxes, which overhang the rear end of my short rack.
 They are probably not useful for other applications.
 
