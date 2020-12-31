@@ -12,7 +12,7 @@ For your hobby printer you have to process it by your favorite slicing software 
 <p>I have spent a considerable amount of time to create these models and am happy to provide these parts for hobby purposes.
 You can use these models for any non-commercial purposes, but not sell the models or parts made from them for profit.
 All parts will require some sort of rework and assembly. No batteries included.
-I cannot guarantee that these parts wil be fit for any purpose, so use at your own risk.
+I cannot guarantee that these parts are fit for any purpose, so use at your own risk.
 These parts were created for replacing broken or missing parts of obsolete computers and peripherals for hobby purposes. They may violate safety regulations and disturb your good taste. Consume with a grain of salt and brain.
 </p>
 
