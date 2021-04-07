@@ -9,8 +9,8 @@
 
 <h2>Notes</h2>
 <p>
-I use small M 2.5 screws with brass inserts to close the cases. thin brass washers can be glued into the recesses to provide a stronger surface for the screw heads.
-Inserts and washers can be glued in with steel filled epoxy in double syringes which gives a stronger and harder bond than the more flexible clear epoxy glues.
+I use small M 2.5 screws with threaded brass inserts to close the cases. Metal washers can be glued into the recesses to provide a stronger surface for the screw heads.
+Inserts and washers can be glued in with steel filled epoxy in double syringes which gives a stronger and harder bond than the more flexible clear epoxy glues. Ideally, the brass inserts can simply be pressed into the holes without glue and secured with a few drops of superglue.
 Self tapping screws do not go well with PLA - maybe you have better luck or use ABS.
 </p>
 The EPROM-Drawer module case is about 10 mm longer than the standard module case. The reason for this: unfortunately, the PCB layout created by Tony Cox is a bit larger than the original layout and I do not have a possibility to modify it easily.
