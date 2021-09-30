@@ -4,7 +4,7 @@
 <ul>
   <li>Case for interface modules, PRM-85 module or other new developments (what about that new color graphics board you wanted to develop?),</li>
   <li>EPROM-Drawer-Bot and EPROM-Drawer-Top make a module case for a reporduction EPROM drawer, using the slightly modified PCB created by Tony Cox.</li>
-  <li>Case for the EMTKS board with two different upper shells - select one according to your taste</li>
+  <li>Case for the EBTKS board with two different upper shells - select one according to your taste</li>
   <li>Replacement plungers for Series-80 keyboards (requires UV-resin printer).</li>
 </ul>
 
