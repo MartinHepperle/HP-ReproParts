@@ -1,3 +1,7 @@
+HP 9836 color monitor cable hood
+For building a replacement fo0r the monitor cable I used a VGA cable with shielded R, G, B wires and these shells.
+After testing, both halves were simply glued together.
+
 HP 9836 monitor locking plate handle
 
 The HP 9836 monitor is locked into the case by a sliding aluminum plate with two square plastic handles.
