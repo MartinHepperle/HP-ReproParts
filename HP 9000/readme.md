@@ -4,6 +4,11 @@ For building a replacement for the monitor cable I used a VGA cable with shielde
 After testing, both halves were simply glued together.
 
 
+HP 9000 DIO Board Lever
+
+Suitable for do-it your self DIO-I boards or for replacing broken handles.
+
+
 HP 9836 monitor locking plate handle
 
 The HP 9836 monitor is locked to the computer case by a sliding aluminum plate with two square plastic handles.
