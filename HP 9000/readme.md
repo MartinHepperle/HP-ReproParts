@@ -1,16 +1,16 @@
 HP 9836 color monitor cable hood
-
+================================
 For building a replacement for the monitor cable I used a VGA cable with shielded R, G, B wires and these shells.
 After testing, both halves were simply glued together.
 
 
 HP 9000 DIO Board Lever
-
+=======================
 Suitable for do-it your self DIO-I boards or for replacing broken handles.
 
 
 HP 9836 monitor locking plate handle
-
+====================================
 The HP 9836 monitor is locked to the computer case by a sliding aluminum plate with two square plastic handles.
 The material of these handles becomes brittle and often their corners break, leaving only ugly fragments of the handles.
 You can remove the nickel plated brass rivets after thinning their hollow ends by drilling with a 5-6 mm drill bit to about 1 mm depth.
