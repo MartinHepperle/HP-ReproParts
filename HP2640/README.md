@@ -13,7 +13,7 @@ This is cheaper than buying cable by the meter and one connector is already in p
 <h2>HP 2640 Keyboard Cover</h2>
 When printed in PLA, the nose of the retention clip may break if it is bent too much. 
 Use a file or sharp knife to shorten it so that the cover is held in place without overstressing the part.
-If it broken, cyanacrylate superglue may be your friend.
+If the clip breaks, cyanacrylate superglue may be your friend.
 
 <h2>Color</h2>
 I printed the cover in white and painted it later.
