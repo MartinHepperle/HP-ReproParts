@@ -1,4 +1,4 @@
-These models are rear bumpers for the HP 9866 printer some HP 98x0 computers.
+These models are rear bumpers for the HP 9866 printer and some HP 98x0 computers.
 
 The original parts often become brittle and crumble into pieces.
 You can print them in hard PLA or, even better, use a flexible material like TPU (shore 58 or similar).
