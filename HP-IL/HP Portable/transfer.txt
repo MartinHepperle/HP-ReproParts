@@ -1,0 +1,43 @@
+HP-IL control using BASIC on the HP 110 and Portable Plus
+
+Usually, tools like Turbo Pascal or C compilers are well suited for program development.
+On the other hand, the rather limited capabilities of early Microsoft BASIC are an interesting challenge.
+For sports, I wrote a small binary module in assembler for controlling the HP-IL interface.
+
+The BASIC program HP110.BAS contains a set of routines for controlling the HP-IL interface of a HP 110 or a Portable Plus.
+It starts with a loader reading machine langage routines from DATA statements and poking the bytes into memory above BASIC.
+Finally it BSAVEs the code to the binary file HPIL.BIN.
+Subsequent runs (or other programs) can then just BLOAD this HPIL.BIN file which is much faster that raeding and poking.
+
+The example program controls a HP 3468 digital voltmeter and reads and graphs a number of samples.
+
+The program works with the ROM-based BASIC and therefore uses escape sequences for the graphics display.
+It could also be modified for GWBASIC for the HP 110 or the Portable Plus which includes graphics commands.
+
+
+
+The ASCII file with the BASIC program can be transferred with one of the terminal programs installed in the Portable.
+
+For receiving a TEXT file (e.g. BASIC Programs in ASCII format) with VT Reflection 1.0 the following steps are required
+
+1) Connect a modern PC (host) to the HP Portable (local) using a serial cable.
+
+2) On the Portable apply the menu commands:
+
+device control
+  "to" devices
+  TO DISK* (on)                 enter a file name e.g.: HP110.BAS
+  TO PRINT (off)
+device control
+device modes
+  RECORD MODE* (on)             this will record all future received input in the named file
+
+3) On the host use e.g. Teraterm to send the file:
+File Menu:
+Send file                       no local display of input, so wait a few seconds before exiting
+
+... wait
+
+EXIT
+
+4) Done
