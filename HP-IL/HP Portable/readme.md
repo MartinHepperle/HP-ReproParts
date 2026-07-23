@@ -1,8 +1,6 @@
 
 These files demonstrate how to use the HP-IL interface of the HP 110 and the Portable Plus from Microsoft BASIC.
-
-It works with the ROM-based BASIC interpreter and should also be usable with the disk-based GWBASIC interpreter for the HP Portable.
-
+The module works with the ROM-based BASIC interpreter and should also be usable with the disk-based GWBASIC interpreter for the HP Portable.
 A binary module with several functions is loaded and can be used to interact with HP-IL devices on the loop.
 
 Assemble on a PC with e.g. DOS-BOX
