@@ -5,7 +5,7 @@ A binary module with several functions is loaded and can be used to interact wit
 
 Assemble on a PC with e.g. DOS-BOX
 --------------------
-The assembler source in HPIL.ASM can be assembled with a batch file like GO.BAT and the resulting binary file can be converted into a BASIC program (in ASCII format) by using the Python script.
+The assembler source in HPIL.ASM can be assembled with a batch file like GO.BAT and the resulting binary file can be converted into a BASIC program (in ASCII format) by using the Python script BINtoHEX.py.
 This script creates code to load the binary and adds an example program for talking to a digital voltmeter. The loader saves the machine code as a binary file whichj can later be loaded with BLOAD to speed the loading proces up.
 
 Transfer to the Portable
